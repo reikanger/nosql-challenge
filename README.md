@@ -11,9 +11,3 @@ Note: Run the code in `NoSQL_setup.ipynb` first, before `NoSQL_analysis.ipynb`, 
 - `NoSQL_setup.ipynb` - Jupyter notebook that documents importing the data and sets up the database for analysis
 - `NoSQL_analysis.ipynb` - Jupyter notebook that contains code that analyzes the UK Food Standards Agency data
 - Resources/establishments.json - Copy of the data provided by the UK Food Standards Agency
-- 
-- 
-- 
-- 
-- 
-- 
